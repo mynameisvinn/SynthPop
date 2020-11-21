@@ -1,3 +1,7 @@
+from scipy import stats
+import seaborn as sns
+import numpy as np
+
 class Copula(object):
     
     def __init__(self):
